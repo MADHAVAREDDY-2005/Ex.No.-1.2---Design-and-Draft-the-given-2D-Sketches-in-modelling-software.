@@ -1,4 +1,6 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+## NAME : K MADHAVA REDDY
+## REG NO: 212223240064
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
@@ -37,6 +39,7 @@
 
  ## OUTPUT
  
- 
+ ![ex 1 2 Drawing v1_page-0001](https://github.com/user-attachments/assets/dc7b24a1-6c1f-432d-b200-89c0e6e6c078)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
